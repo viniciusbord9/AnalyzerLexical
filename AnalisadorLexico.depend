@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1337375627 source:c:\users\notebord\documents\vinicius\cc\analisadorlexico\src\analisador.cpp
+	"../include/Analisador.h"
+
+1335922619 c:\users\notebord\documents\vinicius\cc\analisadorlexico\include\analisador.h
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	"../include/Token.h"
+	"../include/Estado.h"
+	"ListTokens.h"
+
+1336866465 source:c:\users\notebord\documents\vinicius\cc\analisadorlexico\main.cpp
+	<iostream>
+	"include/Analisador.h"
+
+1336000309 c:\users\notebord\documents\vinicius\cc\analisadorlexico\include\token.h
+	<string>
+	"../Type.h"
+
+1336000472 source:c:\users\notebord\documents\vinicius\cc\analisadorlexico\src\token.cpp
+	"../include/Token.h"
+
+1337373464 c:\users\notebord\documents\vinicius\cc\analisadorlexico\include\estado.h
+	"../include/Token.h"
+	"../Type.h"
+	"ListTokens.h"
+
+1337303969 c:\users\notebord\documents\vinicius\cc\analisadorlexico\type.h
+
+1337375709 source:c:\users\notebord\documents\vinicius\cc\analisadorlexico\src\estado.cpp
+	"../include/Estado.h"
+
+1335922679 c:\users\notebord\documents\vinicius\cc\analisadorlexico\include\listtokens.h
+	<iostream>
+	<vector>
+	"../include/Token.h"
+
+1336000600 source:c:\users\notebord\documents\vinicius\cc\analisadorlexico\src\listtokens.cpp
+	"../include/ListTokens.h"
+
